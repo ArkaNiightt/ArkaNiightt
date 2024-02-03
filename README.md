@@ -1,6 +1,6 @@
 ### Prazer, eu sou João Augusto! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoaugustopina/)](https://www.linkedin.com/in/joaoaugustopina/)
+[![Linkedin Badge](https://img.shields.io/badge/-joaoaugustopina-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoaugustopina/)](https://www.linkedin.com/in/joaoaugustopina/)
 [![Gmail Badge](https://img.shields.io/badge/-joaoaugustopina01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoaugustopina01@gmail.com)](mailto:joaoaugustopina01@gmail.com)
 <img src="https://i.imgur.com/MvMxQ1a.gif" alt="Code" width="100%">
 ## 👨‍💻 Sobre Mim
