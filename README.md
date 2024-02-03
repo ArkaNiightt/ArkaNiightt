@@ -10,3 +10,7 @@
 + 🌐 Desenvolvimento Web: Crio aplicações web utilizando tecnologias modernas e frameworks Python.
 + 📊 Análise de Dados: Utilizo Python para extrair insights valiosos a partir de conjuntos de dados.
 + 🛢️ Banco de Dados: Tenho conhecimento em gerenciamento de bancos de dados para garantir eficiência e segurança.
+
+## 💻 Minhas Especialidades
+
+[![Python Badge] (https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
