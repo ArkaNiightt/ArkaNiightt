@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-joaoaugustopina-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoaugustopina/)](https://www.linkedin.com/in/joaoaugustopina/)
 [![Instagram Badge](https://img.shields.io/badge/-@joaopina01-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/joaopina01/)](https://www.instagram.com/joaopina01/)
 [![Gmail Badge](https://img.shields.io/badge/-narutogoit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:narutogoit@gmail.com)](mailto:narutogoit@gmail.com)
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Code" width="90%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Code" width="100%">
 ## 👨‍💻 Sobre Mim
  Sou um entusiasta da programação Python com experiência em várias áreas:
 + 🤖 Automações: Desenvolvo scripts e soluções automatizadas para simplificar tarefas repetitivas.
