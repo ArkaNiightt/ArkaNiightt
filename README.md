@@ -11,6 +11,8 @@
 + 📊 Análise de Dados: Utilizo Python para extrair insights valiosos a partir de conjuntos de dados.
 + 🛢️ Banco de Dados: Tenho conhecimento em gerenciamento de bancos de dados para garantir eficiência e segurança.
 
+![pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 ## 💻 Minhas Especialidades
 
 ![logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
