@@ -30,7 +30,7 @@
 ## 📚 Aprendendo
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![logo](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logo)
+![logo](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php)
 ![logo](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![logo](https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
